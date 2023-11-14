@@ -1,96 +1,41 @@
-# My Awesome Portfolio
+# Hi there! 👋
 
-## Personal Information
+I'm [Your Name], a dynamic and driven IT professional with a passion for creating seamless web experiences. 🚀
 
-- **Date of Birth:** 14/12/1992
-- **Nationality:** Kenya
-- **Mobile Number:** 0700098931
-- **Email Address:** isofteer@gmail.com
+## About Me
 
-## Personal Profile
+📅 **Date of Birth:** 14/12/1992  
+🌍 **Nationality:** Kenya  
+📱 **Mobile:** 0700098931  
+📧 **Email:** isofteer@gmail.com
 
-I am a dynamic and driven IT professional with a solid foundation in Information Technology. I bring a proven track record of handling multifaceted tasks and a commitment to delivering excellence within collaborative settings. My experience spans software and application development, UI/UX design, database analysis, and integration of advanced web services and APIs.
+## 👨‍💻 Tech Stack
 
-## Career Objective
+- **Languages:** JavaScript (React.js, Node.js), C#
+- **Frontend:** HTML, CSS (Bootstrap, UIKIT, MUI)
+- **Backend:** C#, Web API
+- **Databases:** SQL Server, PostgreSQL, MongoDB
+- **Tools:** Git, GitHub, Docker
 
-A seasoned IT professional seeking a senior role as a Web Designer and Application Developer. Dedicated to expanding programming expertise, I aim to contribute advanced technical skills, foster innovation, and drive professional development within a progressive environment.
+## 💼 Current Work
 
-## Technical Proficiency
+I'm currently a **Web App Developer** at [White Label Tracking Company](https://companywebsite.com), where I lead the development of innovative applications, optimize database performance, and integrate advanced web services.
 
-### Technical Skills
+## 🚀 Career Objective
 
-- Software Design and Development
-- Object-Oriented Design
-- UI and Web Design
-- Database Design and Analysis
-- Web Services and APIs
+Seeking exciting opportunities to leverage my skills in web design, application development, and UI/UX to drive innovation and contribute to cutting-edge projects.
 
-### Proficient Expertise
+## 🎓 Education
 
-- JavaScript (JQuery, Vanilla), React.js, Next.js
-- C#, Web API, Web Services, Signal R
-- CSS, HTML, frameworks like Bootstrap, UIKIT, MUI
-- SQL Server, PostgreSQL, MongoDB
-- IIS, Nginx
-- Redis, RabbitMQ
-- Ethereum Blockchain, Web3.js
+- **BSc in Information Technology**  
+  Meru University of Science and Technology  
+  (Sept 2012 - Dec 2016)
 
-## Technical Toolbox
+## 🌐 Interests
 
-### Development Tools
-
-- Visual Studio, NetBeans, and Eclipse
-- Android Studio
-
-### Reporting and Visualization
-
-- Telerik Reporting
-- Charting Tools: AmCharts, D3
-
-### Scheduling & Automation
-
-- Hangfire/SQL Server Agent/Caravel
-
-### Database Management Systems
-
-- SSMS, MySQL Server/Workbench, DB Beaver
-
-### Source Control
-
-- Git & GitHub
-
-### Containerization and Deployment
-
-- Docker, Digital Ocean
-
-## Education
-
-- **Sept 2012 - Dec 2016:** BSc Information Technology, Meru University of Science and Technology
-- **Jan 2008 - Dec 2011:** High school certificate (KCSE), Kericho Boys High School
-- **Jan 1999 - Dec 2007:** Primary School Certificate (KCPE), Mother of Mercy Primary School
-
-## Work Experience
-
-### White Label Tracking Company (Dec 2016 - Current)
-
-**Title:** Web App Developer
-
-**Duties:**
-
-- Spearheaded the development of a diverse array of applications, encompassing multifaceted functionalities and user interfaces
-- Engineered and implemented sophisticated algorithms for streamlined data querying and rendering from the database, optimizing performance and response times.
-- Reporting and Analysis
-- System Integration and API Management
-- Research and development
-
-### Freelancing Software Developer (Jan 2013 - Dec 2016)
-
-- Developed and maintained diverse C# and ASP-based web applications for multiple clients, focusing on systems like SACCO.
-- Ensured uptime and reliability for existing systems, installing and maintaining software products and operating systems.
-
-## Interests
-
-- Continuous learning of coding languages for skill enrichment.
-- Optimization of coding methods for efficiency.
-- Exploring technology's positive societal impacts, especially blockchain concepts in governance.
+- Continuous learning of coding languages
+- Optimizing coding methods for efficiency
+- Exploring the positive impacts of technology, especially blockchain concepts in governance
 - Engaging with new individuals and pursuing artistic hobbies like painting and music.
+
+Let's connect and build something amazing together! 🌟
