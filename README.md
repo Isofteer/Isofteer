@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Anthony rono, a dynamic and driven IT professional with a passion for creating seamless web experiences. 🚀
+I'm Anthony Rono, a dynamic and driven IT professional with a passion for creating seamless web experiences. 🚀
 
 ## About Me
 
@@ -10,11 +10,22 @@ I'm Anthony rono, a dynamic and driven IT professional with a passion for creati
 
 ## 👨‍💻 Tech Stack
 
-- **Languages:** JavaScript (React.js, Node.js), C#
-- **Frontend:** HTML, CSS (Bootstrap, UIKIT, MUI)
-- **Backend:** C#, Web API
-- **Databases:** SQL Server, PostgreSQL, MongoDB
-- **Tools:** Git, GitHub, Docker,Visual studio
+- **Languages:** 
+  - JavaScript (React.js, Node.js) 🌐
+  - C# 💻
+- **Frontend:** 
+  - HTML
+  - CSS (Bootstrap, UIKIT, MUI) 🎨
+- **Backend:** 
+  - C#, Web API 🌐
+- **Databases:** 
+  - SQL Server 🛢️
+  - PostgreSQL 🛢️
+  - MongoDB 🛢️
+- **Tools:** 
+  - Git, GitHub 🧑‍💻
+  - Docker 🐳
+  - Visual Studio 💻
 
 ## 💼 Current Work
 
