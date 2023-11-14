@@ -11,7 +11,7 @@ I'm Anthony Rono, a dynamic and driven IT professional with a passion for creati
 ## 👨‍💻 Tech Stack
 
 - **Languages:** 
-  - JavaScript (React.js, Node.js) 🌐
+  - JavaScript (React.js, Node.js,JQuery.NEXTJS) 🌐
   - C# 💻
 - **Frontend:** 
   - HTML
