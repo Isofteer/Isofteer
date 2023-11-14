@@ -36,7 +36,7 @@ I'm Anthony Rono, a dynamic and driven IT professional with a passion for creati
 
 ## 💼 Current Work
 
-I'm currently a **Web App Developer** at [White Label Tracking Company](https://companywebsite.com), where I lead the development of innovative applications, optimize database performance, and integrate advanced web services.
+I'm currently a **Web App Developer** at [White Label Tracking Company]([https://companywebsite.com](https://www.whitelabeltracking.com/)), where I am involved in the development of innovative applications, optimize database performance, and integrate advanced web services.
 
 ## 🚀 Career Objective
 
