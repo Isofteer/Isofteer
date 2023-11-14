@@ -6,7 +6,7 @@ I'm Anthony Rono, a dynamic and driven IT professional with a passion for creati
 
 🌍 **Nationality:** Kenya  
 📱 **Mobile:** 0700098931  
-📧 **Email:** isofteer@gmail.com
+ 
 
 ## 👨‍💻 Tech Stack
 
