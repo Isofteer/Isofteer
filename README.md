@@ -1,10 +1,9 @@
 # Hi there! 👋
 
-I'm [Your Name], a dynamic and driven IT professional with a passion for creating seamless web experiences. 🚀
+I'm Anthony rono, a dynamic and driven IT professional with a passion for creating seamless web experiences. 🚀
 
 ## About Me
 
-📅 **Date of Birth:** 14/12/1992  
 🌍 **Nationality:** Kenya  
 📱 **Mobile:** 0700098931  
 📧 **Email:** isofteer@gmail.com
@@ -15,7 +14,7 @@ I'm [Your Name], a dynamic and driven IT professional with a passion for creatin
 - **Frontend:** HTML, CSS (Bootstrap, UIKIT, MUI)
 - **Backend:** C#, Web API
 - **Databases:** SQL Server, PostgreSQL, MongoDB
-- **Tools:** Git, GitHub, Docker
+- **Tools:** Git, GitHub, Docker,Visual studio
 
 ## 💼 Current Work
 
