@@ -26,6 +26,13 @@ I'm Anthony Rono, a dynamic and driven IT professional with a passion for creati
   - Git, GitHub 🧑‍💻
   - Docker 🐳
   - Visual Studio 💻
+  
+## 🛠️ Project Management & Collaboration
+
+- **Project Management Tools:**
+  - Jira, Trello, Asana 📊
+- **Collaboration Platforms:**
+  - Slack, GitHub, Bitbucket, Gitlab 💬
 
 ## 💼 Current Work
 
