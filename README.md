@@ -34,6 +34,8 @@
   - Docker/ Portainer
   - Serolog
   - MediatR
+  - Hangfire
+    
     
   
 ## 🛠️ Project Management & Collaboration
