@@ -26,6 +26,15 @@
   - Git, GitHub 🧑‍💻
   - Docker 🐳
   - Visual Studio 💻
+  - Redis
+  - Polly
+  - Telerik
+  - Leaflet
+  - RabbitMQ
+  - Docker/ Portainer
+  - Serolog
+  - MediatR
+    
   
 ## 🛠️ Project Management & Collaboration
 
