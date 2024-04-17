@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Anthony Rono, a dynamic and driven IT professional with a passion for creating seamless web experiences. 🚀
+
 
 ## About Me
 
